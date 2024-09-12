@@ -15,6 +15,15 @@ header {
     padding: 100px 0;
     color: #fff;
 }
+
+header#kmop{
+    text-align: center;
+    background: url('kmo-portefeuille.png') no-repeat center center;
+    background-size: cover;
+    padding: 100px 0;
+    color: #fff;
+}
+
 .container {
     max-width: 700px;
     margin: 0 auto;
@@ -50,4 +59,17 @@ p {
     padding: 20px;
     background-color: #f1f1f1;
     margin-top: 20px;
+}
+.footer p {
+    margin: 0 0 10px 0;
+    line-height: 1.2;
+    font-size: 14px;
+}
+
+b {
+  font-weight: 600;
+}
+
+li {
+  margin: 0 0 20px 0;
 }
